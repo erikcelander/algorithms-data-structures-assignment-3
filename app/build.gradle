@@ -34,7 +34,7 @@ java {
 
 application {
     // Define the main class for the application.
-    mainClass = 'uppgift.HybridQuickSort'
+    mainClass = 'uppgift.uppgift2.TestGraph'
 }
 
 tasks.named('test') {
