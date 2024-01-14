@@ -34,7 +34,7 @@ java {
 
 application {
     // Define the main class for the application.
-    mainClass = 'uppgift.uppgift2.TestGraph'
+    mainClass = 'uppgift.uppgift4.Test'
 }
 
 tasks.named('test') {
